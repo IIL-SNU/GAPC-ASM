@@ -1,6 +1,6 @@
 # Geometry-Aware Phase Compensation for Sampling-Efficient Angular Spectrum Method
 
-Official demo for **Geometry-Aware Phase Compensation (GPC)** and **Local Phase Correction (LPC)** techniques designed for sampling-efficient Angular Spectrum Method (ASM) propagation in thick optical systems.
+Official demo for **Geometry-Aware Phase Compensation (GPC)** techniques designed for sampling-efficient Angular Spectrum Method (ASM) propagation in thick optical systems.
 
 ##  Overview
 
